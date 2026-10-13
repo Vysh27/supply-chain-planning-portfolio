@@ -1,0 +1,21 @@
+sku_id,lost_units,demanded,availability,lost_value,category,vendor,rop_config,root_cause
+SKU1026,15340.0,57025.0,0.7309951775537045,1073800.0,Fruits&Veg,V-Beta,ok,Thin safety stock / variability
+SKU1017,14272.0,45247.0,0.6845757729794241,999040.0,Fruits&Veg,V-Gamma,ok,Vendor delay
+SKU1008,7238.0,25256.0,0.7134146341463414,868560.0,Packaged,V-Gamma,too_low,Vendor delay
+SKU1043,6335.0,32413.0,0.8045537284422917,760200.0,Packaged,V-Beta,too_low,Reorder point too low
+SKU1007,6322.0,28989.0,0.7819172789678843,758640.0,Packaged,V-Beta,too_low,Vendor delay
+SKU1045,10448.0,59443.0,0.8242349814107632,731360.0,Fruits&Veg,V-Alpha,ok,Thin safety stock / variability
+SKU1001,8283.0,38795.0,0.786493104781544,579810.0,Fruits&Veg,V-Beta,ok,Thin safety stock / variability
+SKU1058,8152.0,41007.0,0.8012046723730095,570640.0,Fruits&Veg,V-Alpha,too_low,Reorder point too low
+SKU1013,7413.0,60071.0,0.8765960280334937,518910.0,Fruits&Veg,V-Gamma,too_high,Vendor delay
+SKU1018,7107.0,40275.0,0.8235381750465549,497490.0,Fruits&Veg,V-Alpha,too_low,Reorder point too low
+SKU1000,5462.0,29725.0,0.8162489486963835,491580.0,Beverages,V-Gamma,too_low,Vendor delay
+SKU1050,6875.0,38117.0,0.8196342839153133,481250.0,Fruits&Veg,V-Alpha,ok,Thin safety stock / variability
+SKU1027,6723.0,20412.0,0.6706349206349206,470610.0,Fruits&Veg,V-Gamma,ok,Vendor delay
+SKU1030,2525.0,13660.0,0.8151537335285505,454500.0,Personal Care,V-Beta,too_low,Vendor delay
+SKU1031,3570.0,34651.0,0.8969726703414043,428400.0,Packaged,V-Alpha,too_low,Reorder point too low
+SKU1059,5755.0,31349.0,0.8164215764458197,402850.0,Fruits&Veg,V-Alpha,too_low,Reorder point too low
+SKU1011,5549.0,20563.0,0.7301463794193455,388430.0,Fruits&Veg,V-Beta,ok,Vendor delay
+SKU1052,3057.0,26244.0,0.8835162322816644,366840.0,Packaged,V-Alpha,too_low,Reorder point too low
+SKU1035,4617.0,58736.0,0.9213940343230728,323190.0,Fruits&Veg,V-Delta,ok,Thin safety stock / variability
+SKU1012,4598.0,38203.0,0.8796429599769652,321860.0,Fruits&Veg,V-Beta,ok,Thin safety stock / variability

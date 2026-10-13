@@ -1,0 +1,13 @@
+# Generated data (reproducible — run data_pipeline/generate_data.py)
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+
+# outputs/ kept so result charts render on GitHub.

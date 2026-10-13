@@ -1,0 +1,4 @@
+root_cause,lost_value,skus,pct_of_loss
+Thin safety stock / variability,6080940.0,34,37.6
+Vendor delay,6068310.0,15,37.6
+Reorder point too low,4004620.0,11,24.8
